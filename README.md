@@ -1,6 +1,8 @@
+
+
 ## Hello everyone 👋
 
-<img align="right" width="488" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnJmZTV2cGJ1MWxvcG44OG5hNW93ZzJodmg0ZHRyaDkxN3RlMTc4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUA7bdpLxQhsSQdyog/giphy.gif" />
+
 
 ```dart
 class Eduardo {
@@ -23,10 +25,13 @@ void main() {
 
 ```
 
-
-- 🔭  Atualmente estou em busca de uma vaga como Desenvolvedor Jr
+<p align="center">
+- 🔭  Atualmente estou em busca de uma vaga como Desenvolvedor Jr <br>
 - 🚀 Em busca do fullstack, tenho conhecimento das stack's abaixos:
 
+
+
+<div align="center">
 <code><img
     height="30"
     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"
@@ -51,7 +56,9 @@ void main() {
     height="30"
     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"
     alt="Logo git"/></code>
-    
+</div>
+<br>
+
 <div align="center">
   <a href="https://github.com/DuhAlonso">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuhAlonso&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
@@ -69,4 +76,9 @@ void main() {
   ![Snake animation](https://github.com/DuhAlonso/DuhAlonso/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
 
 </p>
+
+<p align="center">
+<img width="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnJmZTV2cGJ1MWxvcG44OG5hNW93ZzJodmg0ZHRyaDkxN3RlMTc4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUA7bdpLxQhsSQdyog/giphy.gif" />
+</p>
+
 
